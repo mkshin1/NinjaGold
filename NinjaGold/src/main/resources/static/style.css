@@ -1,0 +1,33 @@
+.places-div{
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	text-align: center;
+}
+
+
+.farm{
+	border: 1px solid orange;
+	color: orange;
+}
+
+.cave{
+	border: 1px solid blue;
+	color: lightblue;
+}
+
+.casino{
+	border: 1px solid red;
+	color: red;
+}
+
+.house{
+	border: 1px solid green;
+	color: green;
+}
+
+.btn{
+	background-color: white;
+	border: 2px solid orange;
+	color: orange;
+}
